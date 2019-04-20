@@ -6,7 +6,7 @@ The purpose of this document is collecting some generic techniques about how to 
 ## Optimization of a Raspberry Pi zero W
 ### Power measurements of a Raspberry Pi zero W
 
-This table represents some measurements of the power consumption of Raspberry Pi zero W connected to WiFi, with no other USB devices, or other peripherals connected. These measurements have been taken from a USB power monitor.
+This table represents some measurements of the power consumption of Raspberry Pi zero W connected to WiFi, with no other USB devices, or other peripherals connected. These measurements have been taken from a Portapow premium USB + DC Power Monitor.
 
 | Power draw with no optimization | Power draw with optimization |
 | :-:              		   | :-:                           |
